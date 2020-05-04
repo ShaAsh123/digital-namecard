@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Mohammed;Ashfak;;;
+FN: Shaikh Mohammed Ashfak 
+ORG:OGEI, OSC Saudi;
+TITLE:QC Inspector \nShared services, Quality Control Department 
+EMAIL;type=INTERNET;type=WORK;type=pref:ashfak.shaikh1@gmail.com 
+TEL;type=WORK;type=VOICE:+966 564781787
+item1.ADR;type=WORK;type=pref:;;1st Street, Thouqbah View\nAl Khobar\, +966 564781787;Saudi Arabia 
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.shaikhashfak.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
